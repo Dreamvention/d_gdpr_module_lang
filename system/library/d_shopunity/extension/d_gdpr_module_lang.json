@@ -40,13 +40,21 @@
         "admin/language/it-it/extension/module/d_gdpr_module.php",
         "catalog/language/it-it/extension/module/d_gdpr_module.php",
         "admin/language/italian/extension/module/d_gdpr_module.php",
-        "catalog/language/italian/extension/module/d_gdpr_module.php"
+        "catalog/language/italian/extension/module/d_gdpr_module.php",
+        "admin/language/sk-SK/extension/module/d_gdpr_module.php",
+        "catalog/language/sk-SK/extension/module/d_gdpr_module.php",
+        "admin/language/slovakian/extension/module/d_gdpr_module.php",
+        "catalog/language/slovakian/extension/module/d_gdpr_module.php"
     ],
     "dirs": [
         "admin/language/it-it/extension/d_gdpr_module",
         "admin/language/italian/extension/d_gdpr_module"
     ],
     "changelog": [
+        {
+            "version": "1.0.1",
+            "change": "Slovakian language"
+        },
         {
             "version": "1.0.0",
             "change": "Italian language"
