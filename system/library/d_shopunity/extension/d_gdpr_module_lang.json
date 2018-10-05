@@ -1,6 +1,6 @@
 {
     "codename": "d_gdpr_module_lang",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "name": "GDPR PRO Languages",
     "description": "Additional languages for GDPR PRO Module",
     "author": {
@@ -48,7 +48,11 @@
         "admin/language/bg-bg/extension/module/d_gdpr_module.php",
         "catalog/language/bg-bg/extension/module/d_gdpr_module.php",
         "admin/language/bulgarian/extension/module/d_gdpr_module.php",
-        "catalog/language/bulgarian/extension/module/d_gdpr_module.php"
+        "catalog/language/bulgarian/extension/module/d_gdpr_module.php",
+        "admin/language/nl-nl/extension/module/d_gdpr_module.php",
+        "catalog/language/nl-nl/extension/module/d_gdpr_module.php",
+        "admin/language/dutch/extension/module/d_gdpr_module.php",
+        "catalog/language/dutch/extension/module/d_gdpr_module.php"
     ],
     "dirs": [
         "admin/language/it-it/extension/d_gdpr_module",
@@ -56,9 +60,15 @@
         "admin/language/sk-SK/extension/d_gdpr_module",
         "admin/language/slovakian/extension/d_gdpr_module",
         "admin/language/bg-bg/extension/d_gdpr_module",
-        "admin/language/bulgarian/extension/d_gdpr_module"
+        "admin/language/bulgarian/extension/d_gdpr_module",
+        "admin/language/nl-nl/extension/d_gdpr_module",
+        "admin/language/dutch/extension/d_gdpr_module"
     ],
     "changelog": [
+    	{
+            "version": "1.0.3",
+            "change": "Dutch language"
+        },
     	{
             "version": "1.0.2",
             "change": "Bulgarian language"
