@@ -1,6 +1,6 @@
 {
     "codename": "d_gdpr_module_lang",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "name": "GDPR PRO Languages",
     "description": "Additional languages for GDPR PRO Module",
     "author": {
@@ -44,13 +44,25 @@
         "admin/language/sk-SK/extension/module/d_gdpr_module.php",
         "catalog/language/sk-SK/extension/module/d_gdpr_module.php",
         "admin/language/slovakian/extension/module/d_gdpr_module.php",
-        "catalog/language/slovakian/extension/module/d_gdpr_module.php"
+        "catalog/language/slovakian/extension/module/d_gdpr_module.php",
+        "admin/language/bg-bg/extension/module/d_gdpr_module.php",
+        "catalog/language/bg-bg/extension/module/d_gdpr_module.php",
+        "admin/language/bulgarian/extension/module/d_gdpr_module.php",
+        "catalog/language/bulgarian/extension/module/d_gdpr_module.php"
     ],
     "dirs": [
         "admin/language/it-it/extension/d_gdpr_module",
-        "admin/language/italian/extension/d_gdpr_module"
+        "admin/language/italian/extension/d_gdpr_module",
+        "admin/language/sk-SK/extension/d_gdpr_module",
+        "admin/language/slovakian/extension/d_gdpr_module",
+        "admin/language/bg-bg/extension/d_gdpr_module",
+        "admin/language/bulgarian/extension/d_gdpr_module"
     ],
     "changelog": [
+    	{
+            "version": "1.0.2",
+            "change": "Bulgarian language"
+        },
         {
             "version": "1.0.1",
             "change": "Slovakian language"
