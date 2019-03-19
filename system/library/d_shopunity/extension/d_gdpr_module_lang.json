@@ -60,7 +60,11 @@
         "admin/language/ro-ro/extension/module/d_gdpr_module.php",
         "catalog/language/ro-ro/extension/module/d_gdpr_module.php",
         "admin/language/romanian/extension/module/d_gdpr_module.php",
-        "catalog/language/romanian/extension/module/d_gdpr_module.php"
+        "catalog/language/romanian/extension/module/d_gdpr_module.php",
+        "admin/language/mk-mk/extension/module/d_gdpr_module.php",
+        "catalog/language/mk-mk/extension/module/d_gdpr_module.php",
+        "admin/language/macedonian/extension/module/d_gdpr_module.php",
+        "catalog/language/macedonian/extension/module/d_gdpr_module.php"
     ],
     "dirs": [
         "admin/language/it-it/extension/d_gdpr_module",
@@ -74,9 +78,15 @@
         "admin/language/fr-fr/extension/d_gdpr_module",
         "admin/language/french/extension/d_gdpr_module",
         "admin/language/ro-ro/extension/d_gdpr_module",
-        "admin/language/romanian/extension/d_gdpr_module"
+        "admin/language/romanian/extension/d_gdpr_module",
+        "admin/language/mk-mk/extension/d_gdpr_module",
+        "admin/language/macedonian/extension/d_gdpr_module"
     ],
     "changelog": [
+        {
+            "version": "1.0.4",
+            "change": "Macedonian language"
+        },
     	{
             "version": "1.0.3",
             "change": "Romanian language"
