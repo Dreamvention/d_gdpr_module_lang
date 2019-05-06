@@ -68,7 +68,11 @@
         "admin/language/el-gr/extension/module/d_gdpr_module.php",
         "catalog/language/el-gr/extension/module/d_gdpr_module.php",
         "admin/language/greek/extension/module/d_gdpr_module.php",
-        "catalog/language/greek/extension/module/d_gdpr_module.php"
+        "catalog/language/greek/extension/module/d_gdpr_module.php",
+        "admin/language/de-DE/extension/module/d_gdpr_module.php",
+        "catalog/language/de-DE/extension/module/d_gdpr_module.php",
+        "admin/language/german/extension/module/d_gdpr_module.php",
+        "catalog/language/german/extension/module/d_gdpr_module.php"
     ],
     "dirs": [
         "admin/language/it-it/extension/d_gdpr_module",
@@ -86,9 +90,15 @@
         "admin/language/mk-mk/extension/d_gdpr_module",
         "admin/language/macedonian/extension/d_gdpr_module",
         "admin/language/el-gr/extension/d_gdpr_module",
-        "admin/language/greek/extension/d_gdpr_module"
+        "admin/language/greek/extension/d_gdpr_module",
+        "admin/language/de-DE/extension/d_gdpr_module",
+        "admin/language/german/extension/d_gdpr_module"
     ],
     "changelog": [
+        {
+            "version": "1.0.6",
+            "change": "German language"
+        },
     	{
             "version": "1.0.5",
             "change": "Greek language"
