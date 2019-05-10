@@ -29,7 +29,7 @@ $_['text_request_id']                        = 'GDPR заявка ID #';
 
 $_['text_firstname']                         = 'Име';
 $_['text_lastname']                          = 'Фамиля';
-$_['text_email']                             = 'E-Mail'; this could be translated to BG like this 'електронна поща', but I personally think that should stay 'E-Mail'
+$_['text_email']                             = 'E-Mail'; //this could be translated to BG like this 'електронна поща', but I personally think that should stay 'E-Mail'
 $_['text_phone']                             = 'Телефон';
 $_['text_fax']                               = 'Факс';
 $_['text_account_newsletter']                = 'Абониране за информационен бюлетин';
