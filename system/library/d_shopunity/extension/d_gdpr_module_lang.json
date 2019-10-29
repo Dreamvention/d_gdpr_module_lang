@@ -1,6 +1,6 @@
 {
     "codename": "d_gdpr_module_lang",
-    "version": "1.0.3",
+    "version": "1.0.7",
     "name": "GDPR PRO Languages",
     "description": "Additional languages for GDPR PRO Module",
     "author": {
@@ -24,7 +24,9 @@
         "3.0.0.0",
         "3.0.1.1",
         "3.0.1.2",
-        "3.0.2.0"
+        "3.0.2.0",
+        "3.0.3.1",
+        "3.0.3.2"
     ],
     "type": "library",
     "license": {
@@ -72,7 +74,11 @@
         "admin/language/de-DE/extension/module/d_gdpr_module.php",
         "catalog/language/de-DE/extension/module/d_gdpr_module.php",
         "admin/language/german/extension/module/d_gdpr_module.php",
-        "catalog/language/german/extension/module/d_gdpr_module.php"
+        "catalog/language/german/extension/module/d_gdpr_module.php",
+        "admin/language/ad-ar/extension/module/d_gdpr_module.php",
+        "catalog/language/ar-ar/extension/module/d_gdpr_module.php",
+        "admin/language/arabic/extension/module/d_gdpr_module.php",
+        "catalog/language/arabic/extension/module/d_gdpr_module.php"
     ],
     "dirs": [
         "admin/language/it-it/extension/d_gdpr_module",
@@ -92,9 +98,15 @@
         "admin/language/el-gr/extension/d_gdpr_module",
         "admin/language/greek/extension/d_gdpr_module",
         "admin/language/de-DE/extension/d_gdpr_module",
-        "admin/language/german/extension/d_gdpr_module"
+        "admin/language/german/extension/d_gdpr_module",
+        "admin/language/ar-ar/extension/d_gdpr_module",
+        "admin/language/arabic/extension/d_gdpr_module"
     ],
     "changelog": [
+    	{
+            "version": "1.0.7",
+            "change": "Arabic language"
+        },
         {
             "version": "1.0.6",
             "change": "German language"
